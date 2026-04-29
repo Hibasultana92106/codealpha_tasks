@@ -29,6 +29,3 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix dataset to 
 - USA and India are top contributors
 - Significant growth after 2015
 - Drama and International genres are most common
-
-## ▶️ How to Run
-1. Install requirements:
