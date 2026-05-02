@@ -27,3 +27,6 @@ This project focuses on transforming raw Netflix data into meaningful visualizat
 - USA and India produce most content
 - Netflix grew rapidly after 2015
 - Drama and International genres are highly popular
+- 
+- ## Dataset 
+- Note: Notebook preview may not display on GitHub due to file size. Please download/open locally
